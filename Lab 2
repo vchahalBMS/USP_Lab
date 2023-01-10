@@ -504,7 +504,7 @@ What's up dude...!!!
 [?2004l
 [?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cd varunchahal2
 [?2004l
-bash: cd: utakrsh2: No such file or directory
+bash: cd: varunchahal2: No such file or directory
 [?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cd varunchahal2
 [?2004l
 [?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal2[00m$ cat f1
@@ -553,7 +553,42 @@ cp: cannot stat 'file*': No such file or directory
 [?2004l
 cp: overwrite 'f3'? yes
 [?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gedit f2
+[?2004l[00m$ cd varunchahal2
 [?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal2[00m$ cat f1
+[?2004l
+What's up dude...!!!
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal2[00m$ cd ..
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cdta [K[K[K[Kat f1
+[?2004l
+HEY
+This is my UB1
+
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cat f1[1Pd ..at f1[1Pd ..at f1[Kcat f1[1Pd ..at f1d varunchahal2[5Pat f1[4@p  UB1[C[C[C[5Pd ..p  UB1 f1[K[varunchahal[K[K[K[K[varunchahal2/f1
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cd varunchahal2
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal2[00m$ cat f1
+[?2004l
+HEY
+This is my UB1
+
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal2[00m$ cd ..
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cp file* varunchahal
+[?2004l
+cp: cannot stat 'file*': No such file or directory
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cp file* varunchahal[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgedit f2
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gedit f3
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cp -i f2 f3
+[?2004l
+cp: overwrite 'f3'? yes
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gedit f2
+[?2004l
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-De
 [?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ p[Kcp -i f2 f3
 [?2004l
 cp: overwrite 'f3'? yes
@@ -573,99 +608,99 @@ mvmv: command not found
 [?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cat f2
 [?2004l
 cat: f2: No such file or directory
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cat f2..[K0
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cat f2..[K0
 [?2004l
 Hello BMSCE
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ mv UB1 utkarsh2
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ mv UB1 varunchahal2
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cat utkarsh2
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cat varunchahal2
 [?2004l
-cat: utkarsh2: Is a directory
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ ls utkarsh2
+cat: varunchahal2: Is a directory
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ ls varunchahal2
 [?2004l
 f1  UB1
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ ls
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ ls
 [?2004l
 f1  f2.0  UB2  UB3  [0m[01;34mutkarsh2[0m
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ file f1
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ file f1
 [?2004l
 f1: ASCII text
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ mkdir utkarsh3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ mkdir varunchahal3
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cd utkarsh3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cd varunchahal3
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3[00m$ cd ..
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3[00m$ cd ..
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ mv utkarsh2 utkarsh3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ mv varunchahal2 varunchahal3
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cs[Kd t[Kutkarsh3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cs[Kd t[Kvarunchahal3
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3[00m$ cs [K[Kd ..
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3[00m$ cs [K[Kd ..
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cd utkarsh2
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cd varunchahal2
 [?2004l
-bash: cd: utkarsh2: No such file or directory
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ ls utkarsh2
+bash: cd: varunchahal2: No such file or directory
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ ls varunchahal2
 [?2004l
-ls: cannot access 'utkarsh2': No such file or directory
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ ls utl[Kkarsh3
+ls: cannot access 'varunchahal2': No such file or directory
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ ls utl[Kvarunchahal3
 [?2004l
-[0m[01;34mutkarsh2[0m
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cd utkarsh2
+[0m[01;34mvarunchahal2[0m
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cd varunchahal2
 [?2004l
-bash: cd: utkarsh2: No such file or directory
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ ls [K[K[Kcd utkarsh3
+bash: cd: varunchahal2: No such file or directory
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ ls [K[K[Kcd varunchahal3
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3[00m$ ls
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3[00m$ ls
 [?2004l
-[0m[01;34mutkarsh2[0m
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3[00m$ cd utkarsh2
+[0m[01;34mvarunchahal2[0m
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3[00m$ cd varunchahal2
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3/utkarsh2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ ls
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3/varunchahal2[00m$ ls
 [?2004l
 f1  UB1
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3/utkarsh2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ file f1
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ file f1
 [?2004l
 f1: ASCII text
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3/utkarsh2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ wc -l f1
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ wc -l f1
 [?2004l
 3 f1
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3/utkarsh2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ cta[K[Kat f1
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ cta[K[Kat f1
 [?2004l
 HEY
 This is my UB1
 
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3/utkarsh2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3/utkarsh2[00m$ cd ..
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3/varunchahal2[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3/varunchahal2[00m$ cd ..
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh/utkarsh3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh/utkarsh3[00m$ cd ..
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal/varunchahal3[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal/varunchahal3[00m$ cd ..
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gedit f3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gedit f3
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cta [K[K[Kat f3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cta [K[K[Kat f3
 [?2004l
 hello world....!!!!
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ od -b f3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ od -b f3
 [?2004l
 0000000 150 145 154 154 157 040 167 157 162 154 144 056 056 056 056 041
 0000020 041 041 041 012
 0000024
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ od -cd[K[K[K-bc f3
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ od -cd[K[K[K-bc f3
 [?2004l
 0000000 150 145 154 154 157 040 167 157 162 154 144 056 056 056 056 041
           h   e   l   l   o       w   o   r   l   d   .   .   .   .   !
 0000020 041 041 041 012
           !   !   !  \n
 0000024
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ grdit [K[K[K[K[Kedit f4
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ grdit [K[K[K[K[Kedit f4
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ get[Kdit f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ get[Kdit f5
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ cmp f4 f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ cmp f4 f5
 [?2004l
 f4 f5 differ: byte 7, line 2
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gedit f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gedit f5
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ comm f4 f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ comm f4 f5
 [?2004l
 		Hindi
 English
@@ -675,24 +710,24 @@ comm: file 2 is not in sorted order
 	English
 	Spanish
 comm: input is not in sorted order
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ g zipf4[1Pzipf4[C[C pf4 pf4[1Ppf4[1Ppf4[1Ppf4ipf4[C f4[C[C
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ g zipf4[1Pzipf4[C[C pf4 pf4[1Ppf4[1Ppf4[1Ppf4ipf4[C f4[C[C
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gunzip f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gunzip f5
 [?2004l
 gzip: f5: unknown suffix -- ignored
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gzipf5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gzipf5
 [?2004l
 gzipf5: command not found
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gzip f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gzip f5
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ unzip f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ unzip f5
 [?2004l
 unzip:  cannot find or open f5, f5.zip or f5.ZIP.
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gunzip f5
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gunzip f5
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gunzip f4
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gunzip f4
 [?2004l
-[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/utkarsh[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/utkarsh[00m$ gunzip f45[1P[C[C[C[C[C[C[C[C[1Pg[C[C[C[C[C[C[1Pf5unzip f5[3Pzipf5 f5[K[K[K[K[K[K[K2~2~[K[K[K[Kexit
+[?2004h]0;bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC: ~/varunchahal[01;32mbmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/varunchahal[00m$ gunzip f45[1P[C[C[C[C[C[C[C[C[1Pg[C[C[C[C[C[C[1Pf5unzip f5[3Pzipf5 f5[K[K[K[K[K[K[K2~2~[K[K[K[Kexit
 [?2004l
 exit
 
