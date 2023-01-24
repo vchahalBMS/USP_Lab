@@ -1,0 +1,71 @@
+1) List all the files and directories and its attributes:
+ls-l 
+
+2) List only directories and its attributes:
+ls -d */
+
+3) Change the permission using relative mode for the following:
+(a) Give execution permission to all on file start:
+    chmod o+x count.sh
+
+(b) Assign all permission to users and only read and
+execute permission to group and others on file end/:
+   chmod u+rwx,g+rx,o+rx count.sh
+   
+(c) Remove execute permission from all and assign:
+read and execute permission on rest two.:
+    chmod o-x, g+rx, u+rx count.sh
+    
+    
+4)   Change using absolute permission :
+(a) Assign only read and write permission to all:
+    chmod 666 count.sh
+    
+(b) Assign only execute permission to users and group:
+    chmod 110 count.sh
+    
+5) create a file called workfile.txt.:
+(a) Change the file permission of the file to ---xrw-rwx.:
+    chmod u+x,g+rw,o+rwx,g-x count.sh
+    
+(b) Change the file permission of the file to -rwx---r-x.:
+    chmod u+rwx,g+r,o+x,g-wx,o-wr count.sh
+    
+(c) Remove all file permission from the file, so that the file permission is:
+    chmod u-rwx,g-rwx,o-rwx count.sh
+   
+
+Program: 
+#!/bin/bash
+echo "Starting.."
+chmod u+rwx,g+x,o+x,g-rw,o-rw workfile.txt
+ls -l workfile.txt
+chmod u+rx,g+w,o-rwx,g-rx,u-w workfile.txt
+ls -l workfile.txt
+chmod u+rwx,g+rwx,o+rw,o-x workfile.txt
+ls -l workfile.txt
+echo "The end"
+
+6) Change the default permission of file to 022:
+   chmod 022 count.sh
+          OR
+   umask 022
+   
+7) List the files with hard links:
+   find . -type f -links +1 |tee list
+   lp list
+   OR 
+   ls -li*
+   
+8) Create a symbolic file on a existing file:
+   ln -s catch,try
+   
+9) Change modification time and acces time using touch command:
+    touch -a -m -t [2201031231.12] count.sh
+   
+10) Find files with inode number 13975 and print them:
+    find . -inum 13975 | tee list
+    lp list
+    
+11) Find all files with .c or .sh extension:
+    ls *.c *.sh
